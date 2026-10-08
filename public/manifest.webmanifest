@@ -1,0 +1,9 @@
+{
+  "name": "Sitebook",
+  "short_name": "Sitebook",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efeff1",
+  "theme_color": "#1515d6",
+  "icons": []
+}
